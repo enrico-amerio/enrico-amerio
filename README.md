@@ -11,7 +11,7 @@ I am a **Junior Web Developer** passionate about creating modern and responsive 
 - **[Weather App](https://github.com/enrico-amerio/weather-app)**: Weather forecasts and air quality.
 
 ## 🌱 Currently Learning  
-I am enhancing my skills in **React** and exploring the world of **Advanced APIs**.
+I am enhancing my skills in **React**.
 
 ## 📫 Contact Me  
 - 🌐 Portfolio: [amerioenrico.com](https://amerioenrico.com)  
