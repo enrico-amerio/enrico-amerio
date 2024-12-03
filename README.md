@@ -1,18 +1,18 @@
-# 👋 Ciao, sono Enrico Amerio!
+# 👋 Hi, I'm Enrico Amerio!
 
-## 🚀 Chi sono  
-Sono un **Junior Web Developer** appassionato di creare applicazioni moderne e responsive. Ho esperienza in:
+## 🚀 About Me  
+I am a **Junior Web Developer** passionate about creating modern and responsive applications. I have experience in:  
 - **Frontend**: HTML, CSS, JavaScript, Vue.js  
 - **Backend**: PHP, Laravel, MySQL  
 
-## 🌟 Progetti recenti  
-- **[Deliveboo](https://github.com/enrico-amerio/front-end-deliveboo)**: piattaforma di ordini a domicilio.  
-- **[Clone WhatsApp](https://github.com/enrico-amerio/vue-boolzapp)**: app di messaggistica con bot di risposta.  
-- **[App meteo](https://github.com/enrico-amerio/weather-app)**: previsioni meteo e qualità dell’aria.
+## 🌟 Recent Projects  
+- **[Deliveboo](https://github.com/enrico-amerio/front-end-deliveboo)**: A food delivery platform.  
+- **[Clone WhatsApp](https://github.com/enrico-amerio/vue-boolzapp)**: A messaging app with a response bot.  
+- **[Weather App](https://github.com/enrico-amerio/weather-app)**: Weather forecasts and air quality.
 
-## 🌱 Attualmente sto imparando  
-Sto migliorando le mie competenze in **React** e approcciando il mondo delle **API avanzate**.
+## 🌱 Currently Learning  
+I am enhancing my skills in **React** and exploring the world of **Advanced APIs**.
 
-## 📫 Contattami  
+## 📫 Contact Me  
 - 🌐 Portfolio: [amerioenrico.com](https://amerioenrico.com)  
-- ✉️ Email: amerio.enrico95@gmail.com 
+- ✉️ Email: amerio.enrico95@gmail.com
